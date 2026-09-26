@@ -1,4 +1,11 @@
 # Step_Semester_3
+## Date: 07-09-2026
+**Today's Work:**
+Completed Session 5 class problems and assignments.
+**Next Session Plan:**
+Start Session 6 topics.
+**Issues Faced:**
+None
 ## Date: 29-08-2026
 **Today's Work:**
 Completed Session 4 class problems and assignments.
