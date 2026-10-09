@@ -1,4 +1,9 @@
 # Step_Semester_3
+## Date: 9-10-2026
+**Today's Work:**
+Completed Session 9 class problems and assignments.
+**Issues Faced:**
+None
 ## Date: 30-09-2026
 **Today's Work:**
 Completed Session 8 class problems and assignments.
