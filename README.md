@@ -1,5 +1,12 @@
 ## Date: 21-11-2026
 **Today's Work:**
+Completed Session 11 class problems and assignments.
+**Next Session Plan:**
+Start Session 12 topics.
+**Issues Faced:**
+None
+## Date: 21-11-2026
+**Today's Work:**
 Completed Session 10 class problems and assignments.
 **Next Session Plan:**
 Start Session 11 topics.
